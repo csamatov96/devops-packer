@@ -15,7 +15,7 @@
                     "sudo useradd john",
                     "sudo useradd ben",
                     "sudo yum install httpd lftp git",
-                    "yum update -y"
+                    "sudo yum update -y"
         ]
     }]
 }
