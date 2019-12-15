@@ -14,7 +14,7 @@
         "inline" : ["sudo useradd bob",
                     "sudo useradd john",
                     "sudo useradd ben",
-                    "sudo yum install httpd lftp git",
+                    "sudo yum install httpd lftp git -y",
                     "sudo yum update -y"
         ]
     }]
